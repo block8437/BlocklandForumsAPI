@@ -3,6 +3,7 @@ BlocklandForumsAPI
 
 An API to access the forums information.
 To use:
+
     from blocklandforums import BlocklandForums
     bl = BlocklandForums()
     files = bl.categories["Files"]
